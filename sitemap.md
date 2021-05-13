@@ -11,10 +11,9 @@ categories:
 * [Research](/research)
 * [News](/news)
 * [Publications](/publications)
-* [Team](/team)
-* [About Us](/about)
-* [Join Us](/join)
-* [Contact Us](/contact)
+* [People](/team)
+* [Openings](/join)
+* [Contact](/contact)
 
 View our sitemap in [XML](/sitemap.xml)
 

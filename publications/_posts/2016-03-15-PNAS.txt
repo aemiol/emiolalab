@@ -1,0 +1,11 @@
+---
+layout: paper
+title: "Crosstalk between the lipopolysaccharide and phospholipid pathways during outer membrane biogenesis in Escherichia coli"
+image: /publications/data/PNAS.jpg
+authors: Akintunde Emiola, Steven S Andrews, Carolin Heller, John George
+year: 2016
+ref: Emiola et al. 2016. Proc Natl Acad Sci USA.
+journal: "Proc Natl Acad Sci USA, 113(11); pp. 3108-13"
+---
+# Abstract
+The outer membrane of gram-negative bacteria is composed of phospholipids in the inner leaflet and lipopolysaccharides (LPS) in the outer leaflet. LPS is an endotoxin that elicits a strong immune response from humans, and its biosynthesis is in part regulated via degradation of LpxC (EC 3.5.1.108) and WaaA (EC 2.4.99.12/13) enzymes by the protease FtsH (EC 3.4.24.-). Because the synthetic pathways for both molecules are complex, in addition to being produced in strict ratios, we developed a computational model to interrogate the regulatory mechanisms involved. Our model findings indicate that the catalytic activity of LpxK (EC 2.7.1.130) appears to be dependent on the concentration of unsaturated fatty acids. This is biologically important because it assists in maintaining LPS/phospholipids homeostasis. Further crosstalk between the phospholipid and LPS biosynthetic pathways was revealed by experimental observations that LpxC is additionally regulated by an unidentified protease whose activity is independent of lipid A disaccharide concentration (the feedback source for FtsH-mediated LpxC regulation) but could be induced in vitro by palmitic acid. Further experimental analysis provided evidence on the rationale for WaaA regulation. Overexpression of waaA resulted in increased levels of 3-deoxy-D-manno-oct-2-ulosonic acid (Kdo) sugar in membrane extracts, whereas Kdo and heptose levels were not elevated in LPS. This implies that uncontrolled production of WaaA does not increase the LPS production rate but rather reglycosylates lipid A precursors. Overall, the findings of this work provide previously unidentified insights into the complex biogenesis of the Escherichia coli outer membrane.

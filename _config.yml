@@ -1,13 +1,10 @@
-title: "the barthel laboratory"
-description: "studying telomere dysfunction in gliomagenesis and evolution at TGen"
-url: https://www.barthel-lab.com
-
+title: "the Emiola lab"
+description: "microbial therapeutics unit"
+url: https://www.emiolalab.com
 logo: /images/logo.png
 
 author:
-  name: Floris Barthel
-  twitter: fpbarthel
-  linkedin: https://www.linkedin.com/in/florisbarthel/
+  name: Akintunde Emiola
 
 markdown: kramdown
 permalink: /:categories/:title/

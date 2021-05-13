@@ -38,7 +38,8 @@
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
 					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.png">
-					barthel lab
+					The Emiola laboratory
+
 				</a>
 				{% else %}
 				<a class="navbar-brand" href="/">
@@ -54,28 +55,35 @@
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/research/">research</a>
+						<a class="mx-1" href="/research/">Research</a>
 						</li>
 						{% if page.categories.first == 'news' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/news/">news</a>
+						<a class="mx-1" href="/news/">News</a>
 						</li>
 						{% if page.categories.first == 'publications' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/publications/">publications</a>
+						<a class="mx-1" href="/publications/">Publications</a>
 						</li>
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/team/">team</a>
+						<a class="mx-1" href="/team/">People</a>
+						</li>
+						{% if page.categories.first == 'contact' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/contact/">Contact</a>
 						</li>
 					</ul>
 				</div>
@@ -98,31 +106,13 @@
 <footer class="bg-light text-center text-lg-start"> 
   <div class="container p-4">
 	<div class="row">
-	  <div class="col-lg-3 col-md-3 mb-6 mb-md-0">
-		<h3 class="text-uppercase">Links</h3>
-			<ul class="list-unstyled mb-0 navbar-footer">
-			<li class="nav-link nav-footer">
-				<a href="/contact/" class="mx-1">Contact Us</a>
-		 	</li>
-			<li class="nav-link nav-footer">
-				<a href="/about/" class="mx-1">About</a>
-			</li>
-			<li class="nav-link nav-footer">
-				<a href="/join/" class="mx-1">Join Us</a>
-			</li>
-			<li class="nav-link nav-footer">
-				<a href="/sitemap/" class="mx-1">Sitemap</a>
-			</li>
-			</ul>
-	  </div>
+	  
 	  
 	  <div class="col-lg-9 col-md-9 mb-6 mb-md-0">
-		<h3 class="text-uppercase">Our Supporters</h3>
 		<div class="row justify-content-center align-items-center">
-			<div class="col-md-3 col-sm-12 mini-box"><a href="https://www.tgen.org/"><img src="/images/support/tgen.png" alt="TGen"></img></a></div>
-			<div class="col-md-3 col-sm-12 mini-box"><a href="https://www.cityofhope.org/"><img src="/images/support/coh.png" alt="City of Hope"></img></a></div>
-			<div class="col-md-3 col-sm-12 mini-box"><a href="https://www.cancer.gov/"><img src="/images/support/nci.png" alt="The National Cancer Institute"></img></a></div>
-			<div class="col-md-3 col-sm-12 mini-box"><a href="https://www.wgfrf.org/"><img src="/images/support/wgfrf.png" alt="William Guy Forbeck Research Foundation"></img></a></div>
+		    <div style = "position:relative; left:450px;">
+			<div class="col-md-3 col-sm-13 mini-box"><a href="https://www.nidcr.nih.gov/"><img src="/images/support/NIH-logo.png" alt="National Institute of Dental and Cranofacial Research"></img></a></div>
+		    </div>
 		</div>
 	  </div>
 	  
@@ -130,21 +120,22 @@
   </div>
 
   <!-- Copyright -->
-  <div class="text-center p-3">
-	© 2021 <a class="off" href="/team/floris-barthel/">Floris Barthel</a>
+  <div class="text-center p-4">
+	© 2021 <a class="off" href="/team/akintunde-emiola/">Akintunde Emiola</a>
+	<p> This website was designed using template from <a href="https://www.barthel-lab.com/">the Barthel Lab.</a></a></p>  
   </div>
   <!-- Copyright -->
 </footer>
 <!-- Footer -->
 
 <!-- Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0761BRX3YD"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BZ6BWMEX2W"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 
-	  gtag('config', 'G-0761BRX3YD');
+	  gtag('config', 'G-BZ6BWMEX2W');
 	</script>
 
 </body>

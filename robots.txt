@@ -3,4 +3,4 @@ Disallow: /pdfs/
 Disallow: /css/
 Disallow: /js/
 
-Sitemap: https://www.barthel-lab.com/sitemap.xml
+Sitemap: https://www.emiolalab.com/sitemap.xml

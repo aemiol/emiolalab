@@ -76,6 +76,17 @@ layout: default
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
+		{% if member.tel %}
+		<div class="smallhead">
+			Tel
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-phone fa-fw"></i>
+			{{ member.tel }}
+		</div>		
+		<div class="bigspacer"></div>
+		{% endif %}
 		{% if member.linkedin %}
 		<div class="smallhead">
 			LinkedIn
