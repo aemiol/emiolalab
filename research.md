@@ -6,6 +6,7 @@ categories:
 ---
 # <b>Research Overview</b>
 Our group is interested in understanding the function of microbial communities and how they can be explored for therapeutic purposes. Specifically, we use bioinformatic, genomic and molecular biology tools to discover new therapeutic compounds and identify microbial signatures for early detection of diseases.
+
 The human microbiome contributes to the overall health of its host through multiple mechanisms (e.g. nutrient breakdown, colonization resistance to pathogens, etc.). In addition, microbes represent a rich source for the discovery of new therapeutics; for instance, ~70% of antibiotics in use today were obtained from microbes! The overarching goal of our lab is to combine computation and experimental techniques to study microbial communities for the discovery of new therapeutics.
 
 Our lab is particularly interested in understanding how microbes interact in their ecosystem, contribute to diseases, and how they suppress the growth of competitors through the secretion of antimicrobials. We aim to use information on the microbiome to predict disease and outcomes, as well as developing ways to modulate it to improve human health.
